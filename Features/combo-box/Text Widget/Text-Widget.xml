@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Text-widget>
+   <root> root window </root>
+   <bg> background colour </bg>
+   <fg> foreground colour </fg>
+   <bd> border of widget </bd>
+   <height> height of the widget. </height>
+   <width> width of the widget. </width>
+   <font > Font type of the text. </font >
+   <cursor> The type of the cursor to be used. </cursor>
+   <insetofftime> The time in milliseconds for which the cursor blink is off. </insetofftime>
+   <insertontime> the time in milliseconds for which the cursor blink is on. </insertontime>
+   <padx> horizontal padding.  </padx>
+   <pady> vertical padding. </pady>
+   <state> defines if the widget will be responsive to mouse or keyboards movements. </state>
+   <highlightthickness> defines the thickness of the focus highlight. </highlightthickness>
+   <insertionwidth> defines the width of insertion character. </insertionwidth>
+   <relief> type of the border which can be SUNKEN, RAISED, GROOVE and RIDGE. </relief>
+   <yscrollcommand> to make the widget vertically scrollable </yscrollcommand>
+   <xscrollcommand> to make the widget horizontally scrollable </xscrollcommand>
+</Text-widget>
+

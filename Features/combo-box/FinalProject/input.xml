@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Text name="T">
+   <root>root</root>
+   <bg>white</bg>
+   <fg>red</fg>
+   <bd>black</bd>
+   <height>100</height>
+   <width>200 </width>
+   <font >Arial-normal</font>
+</Text>
