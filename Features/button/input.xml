@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+
+  <button text="click me" >
+  </button>
+
+  <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+
+  <button text="second button">
+  </button>
+
+  <button>
+  </button>
+
+</menu>

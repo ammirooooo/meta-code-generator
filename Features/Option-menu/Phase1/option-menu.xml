@@ -1,0 +1,6 @@
+<OptionMenu text="Select a color">
+    <Option value="red" text="Red">Option 1</Option>
+    <Option value="green" text="Green">Option 2</Option>
+    <Option value="blue" text="Blue">Option 3</Option>
+    <Option value="yellow" text="Yellow">Option 4</Option>
+</OptionMenu>

@@ -1,0 +1,15 @@
+T__0=1
+T__1=2
+OPEN_TAG=3
+CLOSE_TAG=4
+EMPTY_TAG=5
+TEXT=6
+NAME=7
+STRING=8
+ENTITY=9
+WS=10
+'/>'=1
+'='=2
+'<'=3
+'</'=4
+'<!'=5

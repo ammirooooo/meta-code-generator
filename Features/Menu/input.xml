@@ -1,0 +1,12 @@
+<tkml>
+    <head>
+        <menu id="sales1" insertBefore="administration1" content="hell1">
+            <item id="sales_Order.lookup1" content="hey1">Hell</item>
+            <item id="sales_Customer.lookup1" openType="DIALOG1"/>
+        </menu>
+        <menu id="sales2" insertBefore="administration2" content="hell2">
+            <item id="sales_Order.lookup2" content="hey2">Hell2</item>
+            <item id="sales_Customer.lookup2" openType="DIALOG2"/>
+        </menu>
+    </head>
+</tkml>
